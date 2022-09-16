@@ -1,5 +1,5 @@
 ### Hi there 👋, Suresh here.
-![Visitor](https://visitor-badge.laobi.icu/badge?page_id=PSureshsahu7.repoName) [![GitHub followers](https://img.shields.io/github/followers/Sureshsahu7.svg?style=social&label=Follow)](https://github.com/Sureshsahu7?tab=followers)<br/>
+![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Sureshsahu7.repoName) [![GitHub followers](https://img.shields.io/github/followers/Sureshsahu7.svg?style=social&label=Follow)](https://github.com/Sureshsahu7?tab=followers)<br/>
 
 <img align="right" height="200px" width="200px" alt="Unicorn" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
 
